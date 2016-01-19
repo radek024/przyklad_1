@@ -1,0 +1,344 @@
+body
+{
+	background-image:url(img/bg.png);
+	font-family: 'Lato', sans-serif;
+}
+
+li
+{
+	list-style-type: none;
+}
+
+#container
+{
+width:1200px;
+height:720px;
+/*margin-top:100px; /*- dla 1280x1024*/
+margin-top:20px; /* - dla 1600x900 */
+margin-left:auto;
+margin-right:auto;
+border-radius: 50px;
+-moz-border-radius: 50px;
+-webkit-border-radius: 20px;
+border: 2px solid #666666;
+background-color:#555555;
+
+}
+
+#camecloser
+{
+	margin-top: 4px;
+	margin-left: -38px;
+}
+
+#linki
+{
+margin:20px 20px 20px 10px;
+background-color:#757575;
+width:220px;
+height:680px;
+float:left;
+}
+
+
+.link
+{
+width: 210px;
+height: 20px;
+margin: 5px;
+border-bottom: 1px dotted #F5F5F5;
+}
+
+.deco
+{
+
+text-decoration:none;
+
+
+}
+
+.decolink
+{
+text-decoration:none;
+color: #fff;
+}
+
+#srodek
+{
+margin:20px 10px 20px 20px;
+float:left;
+width:920px;
+height:680px;
+background-color:#37474F;
+}
+
+#text
+{
+margin:10px;
+width:900px;
+height:160px;
+background-color:#666666;
+text-align:center;
+font-size:120px;
+color:white;
+font-family: 'Roboto', sans-serif;
+font-weight:700;
+}
+
+#fav
+{
+margin:10px;
+width:900px;
+height:490px;
+background-color:#666666;
+}
+
+#main
+{
+margin-top:10px;
+margin-bottom:10px;
+margin-left:70px;
+margin-right:70px;
+float:left;
+width:760px;
+height:470px;
+/*background-color:#466666;*/
+}
+
+#fb
+{
+
+
+margin-top:70px;
+margin-bottom:10px;
+margin-left:15px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#3a5795;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+}
+
+
+#fb:hover
+{
+margin-top:70px;
+margin-bottom:10px;
+margin-left:15px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#294684;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+
+#gmail
+{
+
+
+margin-top:70px;
+margin-bottom:10px;
+margin-left:10px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#d14836;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#gmail:hover
+{
+
+
+margin-top:70px;
+margin-bottom:10px;
+margin-left:10px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#c03725;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#yt
+{
+
+
+margin-top:70px;
+margin-bottom:10px;
+margin-left:10px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#d14836;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#yt:hover
+{
+
+
+margin-top:70px;
+margin-bottom:10px;
+margin-left:10px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#c03725;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#librus
+{
+
+
+margin-top:10px;
+margin-bottom:10px;
+margin-left:15px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#c4d58e;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#librus:hover
+{
+
+
+margin-top:10px;
+margin-bottom:10px;
+margin-left:15px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#b3c47d;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#mirko
+{
+
+
+margin-top:10px;
+margin-bottom:10px;
+margin-left:15px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:rgb(52,152,219);
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#mirko:hover
+{
+
+
+margin-top:10px;
+margin-bottom:10px;
+margin-left:15px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:rgb(32,132,199);
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#pusty
+{
+
+
+margin-top:10px;
+margin-bottom:10px;
+margin-left:10px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#808080;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+text-transform: uppercase;
+
+}
+
+#pusty:hover
+{
+
+margin-top:10px;
+margin-bottom:10px;
+margin-left:10px;
+margin-right:10px;
+width:230px;
+height:155px;
+background-color:#707070;
+float:left;
+text-align:center;
+font-weight:700;
+color:#fff;
+font size:20px;
+cursor:hand;
+
+}
